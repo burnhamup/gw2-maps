@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/achievement.tsx","./src/components/apikeyinput.tsx","./src/components/map.tsx","./src/components/maplist.tsx","./src/context/apicontext.tsx","./src/pages/mappage.tsx","./src/pages/page.tsx","./src/types/api.tsx"],"version":"5.6.2"}

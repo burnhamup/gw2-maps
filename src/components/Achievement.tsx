@@ -20,7 +20,7 @@ interface AchievementHoverProps {
   name: string;
   description: string;
 }
-function AchievmentHover({ id, name, description }: AchievementHoverProps) {
+function AchievmentHover({ name, description }: AchievementHoverProps) {
   return (
     <div className="achievement-hover">
       <h2>{name}</h2>

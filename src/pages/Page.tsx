@@ -3,7 +3,7 @@
 import { ApiKeyInput } from '../components/ApiKeyInput';
 import { MapList } from '../components/MapList';
 
-export default function Index() {
+export default function Page() {
 
   return (
     <>
